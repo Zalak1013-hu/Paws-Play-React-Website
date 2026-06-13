@@ -1,0 +1,117 @@
+/* footer section start */
+
+.footer
+{
+    background-color: #111827;
+    padding: 80px 32px;
+    margin-top: 3rem;
+}
+
+
+.footer .footer-content a 
+{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.footer .footer-content p
+{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: #9ca3af;
+    margin: 16px 0px 0px;
+}
+
+.footer .footer-icon .icon1
+{
+    font-size: 20px;
+    color: white;
+    background-color: #1f2937;
+    padding: 8px;
+    border-radius: 20px;
+    margin-top: 2rem;
+    margin: 1rem;
+    margin-bottom: 2rem;
+}
+
+.footer .footer-icon .icon2
+{
+    font-size: 20px;
+    color: white;
+    background-color: #1f2937;
+    padding: 8px;
+    border-radius: 20px;
+    margin-top: 1rem;
+}
+
+.footer .footer-icon .icon3
+{
+    font-size: 20px;
+    color: white;
+    background-color: #1f2937;
+    padding: 8px;
+    border-radius: 20px;
+    margin: 1rem;
+}
+
+.footer .footer-icon .icon1:hover
+{
+    background-color: #831843;
+}
+
+.footer .footer-icon .icon2:hover
+{
+    background-color: #831843;
+}
+
+.footer .footer-icon .icon3:hover
+{
+    background-color: #831843;
+}
+.footer h2
+{
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: white;
+    margin: 0px 0px 16px;
+    margin-left: 1rem;
+}
+
+.footer ul li a
+{
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #9CA3AF;
+    margin: 0px 0px 12px;
+    margin-left: 1rem;
+}
+
+.footer ul li a:hover
+{
+    color: white;
+}
+
+.footer h4
+{
+    font-size: 14px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #6b7280;
+    margin: 0px 0px 8px;
+    padding-top: 3rem;
+}
+
+.footer p
+{
+    font-size: 14px;
+    font-weight: 500;
+    font-family: sans-serif;
+    color: #9ca3af;
+    margin: 0px 0px 4px;
+}
+
+/* footer section end */

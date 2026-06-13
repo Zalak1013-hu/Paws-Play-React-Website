@@ -1,0 +1,28 @@
+/* gallery section start */
+
+.gallery h3
+{
+    font-size: 48px;
+    font-family: sans-serif;
+    color: #111827;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.gallery p
+{
+    font-size: 20px;
+    font-family: serif;
+    font-weight: bold;
+    color: #4B5563;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.gallery-img
+{
+    width: 300px;
+    padding-top: 4rem;
+}
+
+/* gallery section end */
